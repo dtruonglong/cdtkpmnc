@@ -1,0 +1,42 @@
+.body1 {
+    background-image: url("/banner.png");
+    background-size: 100% auto;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+
+    position: relative;
+    overflow: hidden;
+}
+
+.content1 {
+    position: absolute;
+    z-index: 1;
+
+    top:10%;
+    left: 10%;
+
+    background-color: rgba(var(--color_27), 0.4);
+
+    width: 50%;
+    height: 80%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content11 {
+    color: rgba(255, 60, 0, 0.815);
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.content12 {
+    color: rgb(var(--color_15));
+    font-size: 18px;
+    font-weight: lighter;
+}

@@ -1,0 +1,39 @@
+.body3 {
+    background-color: rgb(var(--color_15));
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body31 {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-flow: column;
+}
+
+.body32 {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+
+.body32_readmore {
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    bottom: -30px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.body32_readmore:hover {
+    border-bottom: 2px solid rgb(240, 230, 230);
+    width: 103px;
+}
