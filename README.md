@@ -2,7 +2,7 @@
 
 **NextJs Project:**
 
-Foler: Evoucher
+Folder: evoucher
 
 install modules: $ npm install
 
@@ -13,6 +13,8 @@ config connect (PostgreSQL): .\tool\pg.js
 
 **JavaScript Games:**
 
-Folder: Game
+Folder: game
 
 start server (PORT: 5500): click run Go Live (Status bar - VS Code)
+
+
